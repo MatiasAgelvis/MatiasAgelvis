@@ -1,11 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div> 
-Matias is a physicist, but Matias considers himself more of a Computer Scientist.
-</br>
-Matias is as passionate of Computers as taking in 3rd person.
-
-
 <!-- <a href="https://stackoverflow.com/users/7666811/matias-agelvis"><img src="https://stackoverflow.com/users/flair/7666811.png?theme=clean" width="208" height="58" alt="profile for Matias Agelvis at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Matias Agelvis at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasagelvis&show_icons=true) -->
