@@ -33,9 +33,16 @@
 </a>
 <a href="https://www.kaggle.com/matiasagelvis" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+</a>
+</div> 
+
+<br />
+
+<!-- <div align="center">
+<a href="https://ko-fi.com/N4N56KOTY" target="_blank" align="center">
+<img src=https://ko-fi.com/img/githubbutton_sm.svg alt=ko-fi style="margin-bottom: 5px;" />
+</a>
+</div> -->
 <!--
 **MatiasAgelvis/MatiasAgelvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
